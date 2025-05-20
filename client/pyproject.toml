@@ -1,0 +1,14 @@
+[project]
+name = "mcp-client"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "fastapi>=0.115.12",
+    "google-genai>=1.14.0",
+    "mcp>=1.7.1",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.1",
+]

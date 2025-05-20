@@ -1,0 +1,17 @@
+{
+    "mcpServers": {
+        "server_1": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "C:\\users\\user1\\projects\\mcp\\Servers",
+                "run",
+                "main.py"
+            ]
+        },
+        "fetch": {
+            "command": "uvx",
+            "args": ["mcp-server-fetch"]
+        }
+    }
+}
